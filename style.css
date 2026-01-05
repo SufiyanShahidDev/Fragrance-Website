@@ -3,3 +3,14 @@
 .navbar{
     border-bottom: 3px solid black;
 }
+
+
+body.dark {
+  background-color: #0f1720;
+  color: white;
+  transition: 0.3s;
+}
+
+body.dark .slider {
+  background-color: black;
+}
